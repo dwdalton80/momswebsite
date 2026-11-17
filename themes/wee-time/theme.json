@@ -1,0 +1,64 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"settings": {
+		"appearanceTools": true,
+		"layout": { "contentSize": "720px", "wideSize": "1120px" },
+		"color": {
+			"defaultPalette": false,
+			"palette": [
+				{ "slug": "bg", "name": "Background", "color": "#F7F8FC" },
+				{ "slug": "surface", "name": "Surface", "color": "#FFFFFF" },
+				{ "slug": "ink", "name": "Ink", "color": "#25213A" },
+				{ "slug": "muted", "name": "Muted", "color": "#5E5A74" },
+				{ "slug": "line", "name": "Line", "color": "#DDE0EC" },
+				{ "slug": "mom", "name": "Moms teal", "color": "#2C7A72" },
+				{ "slug": "mom-soft", "name": "Moms teal, soft", "color": "#DDF0EC" },
+				{ "slug": "kid", "name": "Kids pink", "color": "#E8607E" },
+				{ "slug": "kid-soft", "name": "Kids pink, soft", "color": "#FDE6EC" },
+				{ "slug": "sun", "name": "Sun", "color": "#F5B83D" },
+				{ "slug": "sun-soft", "name": "Sun, soft", "color": "#FEF2D6" }
+			]
+		},
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"slug": "display",
+					"name": "Fredoka",
+					"fontFamily": "Fredoka, Nunito, ui-rounded, 'Segoe UI', system-ui, sans-serif",
+					"fontFace": [
+						{ "fontFamily": "Fredoka", "fontStyle": "normal", "fontWeight": "300 700", "fontDisplay": "swap", "src": [ "file:./assets/fonts/fredoka.woff2" ] }
+					]
+				},
+				{
+					"slug": "body",
+					"name": "Nunito",
+					"fontFamily": "Nunito, ui-rounded, 'Segoe UI', system-ui, -apple-system, sans-serif",
+					"fontFace": [
+						{ "fontFamily": "Nunito", "fontStyle": "normal", "fontWeight": "200 1000", "fontDisplay": "swap", "src": [ "file:./assets/fonts/nunito.woff2" ] }
+					]
+				}
+			]
+		},
+		"spacing": { "units": [ "px", "rem", "%" ] }
+	},
+	"styles": {
+		"color": { "background": "var(--wp--preset--color--bg)", "text": "var(--wp--preset--color--ink)" },
+		"typography": { "fontFamily": "var(--wp--preset--font-family--body)", "fontSize": "1.0625rem", "lineHeight": "1.55" },
+		"spacing": { "padding": { "left": "16px", "right": "16px" } },
+		"elements": {
+			"heading": { "typography": { "fontFamily": "var(--wp--preset--font-family--display)", "fontWeight": "600", "lineHeight": "1.2" } },
+			"link": { "color": { "text": "var(--wp--preset--color--mom)" } },
+			"button": {
+				"color": { "background": "var(--wp--preset--color--mom)", "text": "#FFFFFF" },
+				"border": { "radius": "999px" },
+				"typography": { "fontFamily": "var(--wp--preset--font-family--display)", "fontWeight": "600" }
+			}
+		}
+	},
+	"templateParts": [
+		{ "name": "header", "title": "Header", "area": "header" },
+		{ "name": "footer", "title": "Footer", "area": "footer" }
+	]
+}

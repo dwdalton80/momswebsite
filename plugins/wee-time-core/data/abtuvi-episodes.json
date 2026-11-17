@@ -1,0 +1,12 @@
+{
+ "ages": ["0-2", "3-5"],
+ "episodes": [
+  {"title": "Feeling Brave", "video": "abtuvi-preview.mp4", "note": "Abtuvi crosses a log over the creek"},
+  {"title": "Sharing the Berries", "video": "abtuvi-preview-2.mp4", "note": "Abtuvi shares berries with a duckling"},
+  {"title": "Please and Thank You", "video": "abtuvi-preview-3.mp4", "note": "A jam picnic with a bunny friend"},
+  {"title": "Feeling Sad", "video": "abtuvi-preview-4.mp4", "note": "A gloomy day turns into a rainbow"},
+  {"title": "The Power of Kindness", "video": "abtuvi-preview-5.mp4", "note": "Helping a squirrel gather acorns"},
+  {"title": "Being Different Is Special", "video": "abtuvi-preview-6.mp4", "note": "Abtuvi rolls up, and his friends love him just as he is"},
+  {"title": "Abtuvi Starts School", "note": "Coming soon", "coming_soon": true}
+ ]
+}

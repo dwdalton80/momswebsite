@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+node_modules/
+vendor/
+# Member files never go in the repo; they live in wp-content/uploads/wt-protected on the server.
+*.pdf
+*.mp4
+wt-protected/

@@ -1,0 +1,77 @@
+{
+ "0-2": {
+  "label": "0–2",
+  "name": "Little ones",
+  "coloring": [
+   "Smiling sun",
+   "Little duck",
+   "Bubble fish",
+   "Happy heart",
+   "Big ball",
+   "Smiling star",
+   "Little car",
+   "Big apple"
+  ],
+  "learning": [
+   "Big letters A B C",
+   "Black and white baby cards",
+   "First words picture cards",
+   "First shapes",
+   "Count 1 2 3"
+  ]
+ },
+ "3-5": {
+  "label": "3–5",
+  "name": "Preschool",
+  "coloring": [
+   "Garden flower",
+   "My cozy house",
+   "Ocean friend",
+   "A is for apple",
+   "Friendly dinosaur",
+   "Rainbow day"
+  ],
+  "learning": [
+   "Trace 1 2 3",
+   "Letter sounds A B C",
+   "Trace letters A to F",
+   "Trace numbers 1 to 10",
+   "Count and circle",
+   "Match the shapes",
+   "Cut and paste shapes",
+   "My first maze"
+  ]
+ },
+ "6-8": {
+  "label": "6–8",
+  "name": "Big kids",
+  "coloring": [
+   "Space rocket",
+   "Draw your street",
+   "Pattern garden",
+   "Castle on the hill"
+  ],
+  "learning": [
+   "Number puzzles",
+   "Spelling starters",
+   "Sight words",
+   "Handwriting practice",
+   "Adding to 20",
+   "Taking away within 20",
+   "Missing letters"
+  ]
+ },
+ "9-12": {
+  "label": "9–12",
+  "name": "Older kids",
+  "coloring": [
+   "Mountain campsite",
+   "Coral reef"
+  ],
+  "learning": [
+   "Maze challenge",
+   "Word search",
+   "Mini sudoku"
+  ]
+ }
+}

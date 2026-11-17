@@ -1,0 +1,298 @@
+[
+ {
+  "id": "pregnancy",
+  "stage": "Pregnancy",
+  "title": "Pregnancy comfort kit",
+  "blurb": "Small things that make the months before baby easier.",
+  "items": [
+   {
+    "name": "Momcozy U-Shaped Pregnancy Pillow",
+    "why": "Supports belly, back and hips at once, so side-sleeping is bearable.",
+    "category": "Sleep",
+    "tier": "must",
+    "asin": "B08YYVRXLM",
+    "price": 44.99
+   },
+   {
+    "name": "KeaBabies Pregnancy Belly Band",
+    "why": "Soft support for your back and bump, and lets you wear your jeans longer.",
+    "category": "Mom recovery",
+    "tier": "nice",
+    "asin": "B07Z4W4KZB",
+    "price": 18.96
+   },
+   {
+    "name": "Iron Flask 40 oz Bottle with Straw",
+    "why": "Hydration matters more now, and a big insulated bottle means fewer refills.",
+    "category": "Health",
+    "tier": "must",
+    "asin": "B07N2F3JXP",
+    "price": 24.99
+   },
+   {
+    "name": "Growing You Keepsake Pregnancy Journal",
+    "why": "Guided pages for appointments, milestones and notes to baby.",
+    "category": "Health",
+    "tier": "nice",
+    "asin": "1944515976",
+    "price": 26.1
+   },
+   {
+    "name": "Kindred Bravely Compression Socks",
+    "why": "Firm support for swollen ankles on long days and flights.",
+    "category": "Health",
+    "tier": "nice",
+    "asin": "B095XDRZTF",
+    "price": 29.99
+   }
+  ]
+ },
+ {
+  "id": "hospital-bag",
+  "stage": "Hospital Bag",
+  "title": "Hospital bag checklist",
+  "blurb": "Pack it by week 36. Everything here earns its place.",
+  "items": [
+   {
+    "name": "SWOMOG 3-in-1 Maternity and Nursing Robe",
+    "why": "Works for labor, skin-to-skin and the first feeds.",
+    "category": "Mom recovery",
+    "tier": "must",
+    "asin": "B08LYK9F7L",
+    "price": 19.99
+   },
+   {
+    "name": "Anker 10 ft USB-C Charging Cable",
+    "why": "Hospital outlets are never by the bed. Older iPhones need a Lightning cable instead.",
+    "category": "Travel",
+    "tier": "must",
+    "asin": "B08PVPTNZL",
+    "price": 9.99
+   },
+   {
+    "name": "Simple Joys by Carter's Sleep and Play, 3-Pack",
+    "why": "Zip-up going-home outfits, with spares for blowouts.",
+    "category": "Travel",
+    "tier": "must",
+    "asin": "B075XQMH99",
+    "price": 25
+   },
+   {
+    "name": "Frida Upside Down Peri Bottle",
+    "why": "The angled nozzle makes postpartum care much easier.",
+    "category": "Mom recovery",
+    "tier": "must",
+    "asin": "B07TXLZ8MR",
+    "price": 9.48
+   },
+   {
+    "name": "Batiste Dry Shampoo Mini, 3-Pack",
+    "why": "Feel human again without a full shower.",
+    "category": "Mom recovery",
+    "tier": "nice",
+    "asin": "B082WLL2SV",
+    "price": 16.99
+   },
+   {
+    "name": "Graco SnugRide Lite LX Infant Car Seat",
+    "why": "Light to carry, and you can't leave the hospital without a seat installed.",
+    "category": "Travel",
+    "tier": "must",
+    "asin": "B07Y5S4VWT",
+    "price": 139.97
+   }
+  ]
+ },
+ {
+  "id": "newborn",
+  "stage": "Newborn · 0–3 mo",
+  "title": "Newborn must-haves",
+  "blurb": "The short list for the first twelve weeks.",
+  "items": [
+   {
+    "name": "aden + anais Essentials Muslin Swaddles, 4-Pack",
+    "why": "Breathable cotton that helps newborns feel secure and settle.",
+    "category": "Sleep",
+    "tier": "must",
+    "asin": "B0BX7LF3CM",
+    "price": 24.99
+   },
+   {
+    "name": "Chicco LullaGo Anywhere Portable Bassinet",
+    "why": "A safe sleep space next to your bed that folds for travel.",
+    "category": "Sleep",
+    "tier": "must",
+    "asin": "B09LKS9TT1",
+    "price": 126.99
+   },
+   {
+    "name": "Pampers Swaddlers Size 0, 84 Count",
+    "why": "Soft, with a wetness line. You'll use 8 to 12 a day at first.",
+    "category": "Diapering",
+    "tier": "must",
+    "asin": "B07CVBTN3N",
+    "price": 27.97
+   },
+   {
+    "name": "WaterWipes Sensitive+ Baby Wipes, 4 Packs",
+    "why": "Almost all water, gentle on brand-new skin.",
+    "category": "Diapering",
+    "tier": "must",
+    "asin": "B00INOM4X6",
+    "price": 15.97
+   },
+   {
+    "name": "Burt's Bees Baby Organic Burp Cloths, 5-Pack",
+    "why": "Big and absorbent. You can never have too many.",
+    "category": "Feeding",
+    "tier": "must",
+    "asin": "B00N4PNYRY",
+    "price": 26.95
+   },
+   {
+    "name": "Hatch Baby Sound Machine and Night Light",
+    "why": "White noise, a soft light and later a time-to-rise clock, all in one.",
+    "category": "Sleep",
+    "tier": "nice",
+    "asin": "B0F7C6XJ3P",
+    "price": 79.99
+   }
+  ]
+ },
+ {
+  "id": "infant",
+  "stage": "Infant · 3–12 mo",
+  "title": "Infant stage favorites",
+  "blurb": "For rolling, sitting, starting solids and teething.",
+  "items": [
+   {
+    "name": "Graco Slim Snacker Highchair",
+    "why": "Folds flat and stands on its own, good for smaller kitchens.",
+    "category": "Feeding",
+    "tier": "must",
+    "asin": "B00PTL13LA",
+    "price": 99.99
+   },
+   {
+    "name": "Nuby NanaNubs Teether",
+    "why": "A soft banana-shaped massager that reaches the back gums.",
+    "category": "Health",
+    "tier": "must",
+    "asin": "B01LYHTATF",
+    "price": 5.23
+   },
+   {
+    "name": "Skip Hop 3-in-1 Tummy Time Mat",
+    "why": "A padded play space for tummy time, rolling and sitting.",
+    "category": "Sleep",
+    "tier": "nice",
+    "asin": "B09WJMJ1K4",
+    "price": 60
+   },
+   {
+    "name": "KeaBabies Suction Plates with Lids, 3-Pack",
+    "why": "Silicone plates that stay put and store leftovers.",
+    "category": "Feeding",
+    "tier": "nice",
+    "asin": "B0CQPDX76V",
+    "price": 17.96
+   },
+   {
+    "name": "4our Kiddies 56-Piece Baby Proofing Kit",
+    "why": "Locks, outlet covers, corner guards and anchors in one box.",
+    "category": "Health",
+    "tier": "must",
+    "asin": "B0F53J5KMM",
+    "price": 19.99
+   }
+  ]
+ },
+ {
+  "id": "toddler",
+  "stage": "Toddler · 1–3 yrs",
+  "title": "Toddler essentials",
+  "blurb": "Gear for walkers, talkers and big feelings.",
+  "items": [
+   {
+    "name": "Munchkin Snack Catcher, 2-Pack",
+    "why": "Soft flaps keep snacks in and crumbs out of the car seat.",
+    "category": "Feeding",
+    "tier": "must",
+    "asin": "B01GKZNWTO",
+    "price": 3.75
+   },
+   {
+    "name": "Graco Ready2Jet Travel Stroller",
+    "why": "About 13 pounds, folds one-handed and fits overhead bins.",
+    "category": "Travel",
+    "tier": "nice",
+    "asin": "B0D2LXK44T",
+    "price": 189.99
+   },
+   {
+    "name": "Dr. Brown's Toddler Toothbrush, 2-Pack",
+    "why": "Small heads and chunky handles make brushing go better.",
+    "category": "Health",
+    "tier": "must",
+    "asin": "B09M4BKYK2",
+    "price": 6.99
+   },
+   {
+    "name": "Munchkin Sturdy Toddler Toilet Seat",
+    "why": "Sits firmly on the big toilet, ready for the first signs of interest.",
+    "category": "Diapering",
+    "tier": "nice",
+    "asin": "B01C431OA0",
+    "price": 11.49
+   },
+   {
+    "name": "The Little Blue Boxed Set of 4 Board Books",
+    "why": "Four Dr. Seuss Bright and Early classics with sturdy pages.",
+    "category": "Sleep",
+    "tier": "nice",
+    "asin": "030797586X",
+    "price": 9.85
+   }
+  ]
+ },
+ {
+  "id": "shower-gifts",
+  "stage": "Gift guide",
+  "title": "Baby shower gifts under $50",
+  "blurb": "Thoughtful gifts parents will actually use.",
+  "items": [
+   {
+    "name": "Konssy Swaddle Blanket and Beanie Set",
+    "why": "Stretchy and soft, and sweet in newborn photos.",
+    "category": "Sleep",
+    "tier": "must",
+    "asin": "B0BPPJXR9R",
+    "price": 12.99
+   },
+   {
+    "name": "Parker Baby Felt Diaper Caddy",
+    "why": "Keeps diapers, wipes and cream in one grab-and-go basket.",
+    "category": "Diapering",
+    "tier": "nice",
+    "asin": "B095XNZCSQ",
+    "price": 22.95
+   },
+   {
+    "name": "Pearhead First 5 Years Memory Book",
+    "why": "Guided pages plus a clean-touch ink pad for hand and footprints.",
+    "category": "Mom recovery",
+    "tier": "nice",
+    "asin": "B00TQ84AEE",
+    "price": 19.99
+   },
+   {
+    "name": "JolyWell Dimmable Nursery Night Light",
+    "why": "Rechargeable, with a timer and a soft glow for 3 a.m. feeds.",
+    "category": "Sleep",
+    "tier": "must",
+    "asin": "B097YP171M",
+    "price": 25.99
+   }
+  ]
+ }
+]
