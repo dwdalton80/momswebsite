@@ -18,7 +18,7 @@ has "$KIDS" "Referrer-Policy: no-referrer"; ok $? "Kids Corner sends no referrer
 ! has "$KIDS" "emoji"; ok $? "Kids Corner skips the emoji script"
 has "$KIDS" "The Adventures of Abtuvi"; ok $? "Kids Corner shows The Adventures of Abtuvi"
 has "$KIDS" "Being Different Is Special"; ok $? "Episode titles show"
-has "$KIDS" "Abtuvi Starts School" && has "$KIDS" "Coming soon"; ok $? "Abtuvi Starts School shows as coming soon"
+has "$KIDS" "Abtuvi Starts School" && ! has "$KIDS" "Coming soon"; ok $? "All seven Abtuvi episodes have videos, none says coming soon"
 has "$KIDS" 'data-wt-grownup'; ok $? "Plans and locked items sit behind the grown-up check"
 has "$KIDS" "badge lock"; ok $? "A guest sees members-only items as locked"
 ! grep -qi '<input' <<<"$(sed -n '/<main/,/<\/main>/p' <<<"$KIDS")"; ok $? "Kids Corner has no fields a child could type in"
